@@ -39,7 +39,7 @@ The code generation, structural optimisation, and debugging were assisted by Gem
 ## Citation
 
 If you use this script in your research, please cite it using the Zenodo DOI:
-> https://doi.org/10.5281/zenodo.XXXXXXX>
+> https://doi.org/10.5281/zenodo.23206366
 > _Ilieva, M. (2026). DRT Peak Integration Analyser. GitHub repository._
 
 ## License
