@@ -22,6 +22,7 @@ The data must be organised in pairs of columns for each dataset (e.g., different
 * ...and so on.
 * **f**: Frequency values in Hertz (Hz).
 * **gamma**: The DRT distribution function values ($\gamma$) in $\Omega \cdot s^{-1}$.
+
 _Note: The script dynamically detects how many pairs exist. You can provide 1 pair or 20 pairs; the tool will process them all. The input file may contain additional exported columns such as `tau1`, `tau2`, etc. To ensure maximum mathematical precision and avoid rounding errors from third-party exports, this script dynamically recalculates the relaxation times directly from the frequency arrays. Therefore, only the `f` and `gamma` columns are strictly required._
 ## Usage
 1. Place your `DRT_Data.xlsx` file in the same folder as the script.
